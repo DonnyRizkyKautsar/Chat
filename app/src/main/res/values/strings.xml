@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="nama_konsultasi2">Nama Konsultasi</string>
+    <string name="nama_konsultasi">Nama Konsultasi</string>
+    <string name="_30_min">30 min</string>
+    <string name="pesan">Pesan</string>
+    <string name="forum_diskusi">Forum Diskusi</string>
+    <string name="_12_min">12 min</string>
+    <string name="halo_kevin_ada_yang_bisa_saya_bantu2">Halo Kevin,ada yang bisa saya bantu?</string>
+    <string name="halo_kevin_ada_yang_bisa_saya_bantu">Halo Kevin,ada yang bisa saya bantu?</string>
+</resources>
